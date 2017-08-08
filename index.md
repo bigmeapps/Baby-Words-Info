@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+<img src="http://i.imgur.com/O6JR4pr.png" width="128">  Developer: "BigMeApps"
 
-You can use the [editor on GitHub](https://github.com/bigmeapps/Privacy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+E-mail: feedback.bigmeapps@gmail.com 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+02 Aug 2017
 
-### Markdown
+### ENG:    Feeding & Diapers Pro  /  Feeding & Nappies Pro
+**Privacy Notice:**  nobody but you gets access to the data you enter and store using the application. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### SPA:    Alimentación y Pañales Pro
+**Confidencialidad:**  nadie más que usted tiene acceso a los datos que introduzca y guardar con la aplicación. 
 
-```markdown
-Syntax highlighted code block
+### FRA:    Tétées et couches Pro
+**Remarque sur la confidentialité:**  personne, sauf si vous avez accès aux données que vous avez entrées et entreposez à l'aide de l'application. 
 
-# Header 1
-## Header 2
-### Header 3
+### DEU:    Fütterung & Windeln Pro
+**Privatsphäre und Datenschutz:**  Keiner, aber man bekommt Zugriff auf die Daten, die Sie mit der Anwendung eingeben und speichern. 
+### RUS:    Журнал грудничка Pro
+**Конфиденциальность:**  никто кроме вас не имеет доступа к данным, которые вы вводите и храните при использовании приложения. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bigmeapps/Privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### UKR:    Годування & Підгузки Pro
+**Конфіденційність:**  ніхто крім вас не має доступу до даних, які ви вводите і зберігаєте при користуванні цим додатком. 
